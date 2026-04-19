@@ -2,8 +2,7 @@
 <h3 align="center">💻 Computer Science Student | 🔐 Cybersecurity Enthusiast</h3>
 
 <p align="center">
-<img src = "https://readme-typing-svg.herokuapp.com?
-color=00FF00&center=true&vCenter=true&lines=Learning+Cybersecurity;Futer+Ethical+Hacker..."/> 
+<img src = "https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Learning+Cybersecurity;Future+Ethical+Hacker.."/> 
 </p>
 
 <h3> <b>About Me</b> </h3>

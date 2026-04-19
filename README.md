@@ -3,7 +3,7 @@
 
 <p align="center">
 <img src = "https://readme-typing-svg.herokuapp.com?
-color=00FF00&center=true&vCenter=true&lines=Learning+Cybersecurity;Futer+Ethical+Hacker;"/> 
+color=00FF00&center=true&vCenter=true&lines=Learning+Cybersecurity;Futer+Ethical+Hacker..."/> 
 </p>
 
 <h3> <b>About Me</b> </h3>
@@ -15,7 +15,7 @@ color=00FF00&center=true&vCenter=true&lines=Learning+Cybersecurity;Futer+Ethical
 <p>Cybersecurity | Networking | Ethical Hacking
 
 <h4># current_status</h4>
-<p>Building my computer science skills & hacking skills.</p>
+<p>Enhancing my skills in computer science and ethical hacking.</p>
 
 <h4># goal </h4>
 <p>Security Analyst⚙️</p>
